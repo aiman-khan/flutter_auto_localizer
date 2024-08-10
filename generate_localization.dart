@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:app_local/flutter_auto_localizer.dart';
+import 'package:flutter_auto_localizer/flutter_auto_localizer.dart';
 
 void main() async {
   final localizationGenerator = AutoLocalizationGenerator(

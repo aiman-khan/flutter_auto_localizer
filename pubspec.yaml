@@ -1,23 +1,22 @@
-name: app_local
+name: flutter_auto_localizer
 description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://example.com/flutter_auto_localizer 
+repository: https://github.com/aiman-khan/flutter_auto_localizer
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.6
-  intl: ^0.18.0
-  translator: ^0.1.7
+  path: ^1.9.0
+  translator: ^1.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^2.3.3
-  json_serializable: ^6.7.0
+  flutter_lints: ^3.0.0
 
 flutter:
-  uses-material-design: true
