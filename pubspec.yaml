@@ -1,5 +1,5 @@
 name: flutter_auto_localizer
-description: "A new Flutter package project."
+description: A Flutter package for automating localization file generation and translation.
 version: 1.0.0
 homepage: https://example.com/flutter_auto_localizer 
 repository: https://github.com/aiman-khan/flutter_auto_localizer
